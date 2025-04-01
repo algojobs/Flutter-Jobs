@@ -1,11 +1,13 @@
 # Flutter Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/29/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Flutter Jobs](https://algojobs.io/jobs/flutter)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/31/2025 | [Engenheiro(a) de Software Sr. IOS - (Marketplace)](https://algojobs.io/jobs/3640975) | [Banco PAN](https://algojobs.io/company/bancopan/) | N/A | São Paulo -SP |
+| 03/31/2025 | [Senior Mobile Developer](https://algojobs.io/jobs/3638508) | [Blend Technologies S.A.](https://algojobs.io/company/blendtech/) | N/A | Athens, Attica, Greece |
 | 03/28/2025 | [Mobile Flutter Developer](https://algojobs.io/jobs/3617862) | [Questronix Corporation](https://algojobs.io/company/questronix-corporation-2/) | N/A | Pasig, Metro Manila, Philippines (Hybrid) |
 | 03/27/2025 | [Flutter Developer](https://algojobs.io/jobs/3617268) | [Babel](https://algojobs.io/company/babelgroup/) | N/A | SAN JOSÉ, Costa Rica |
 | 03/25/2025 | [Principal Software Development Engineer - Native Mobile App](https://algojobs.io/jobs/3583497) | [ID.me](https://algojobs.io/company/idme/) | $248K - $295K | Mountain View, California, United States |
@@ -29,13 +31,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/13/2025 | [Software Engineer](https://algojobs.io/jobs/3449283) | [Transvirtual](https://algojobs.io/company/transvirtual/) | N/A | Sri Lanka (Remote) |
 | 03/13/2025 | [Software Engineer](https://algojobs.io/jobs/3449285) | [Transvirtual](https://algojobs.io/company/transvirtual/) | N/A | Manila, Metro Manila, Philippines (Remote) |
 | 03/13/2025 | [Software Engineer](https://algojobs.io/jobs/3449287) | [Transvirtual](https://algojobs.io/company/transvirtual/) | N/A | India (Remote) |
+| 03/12/2025 | [Junior Android Software Engineer](https://algojobs.io/jobs/3452078) | [Iterable](https://algojobs.io/company/iterable/) | N/A | Hybrid - Lisbon, Portugal |
 | 03/12/2025 | [Software Engineer - Android](https://algojobs.io/jobs/3452259) | [Ditto](https://algojobs.io/company/dittoliveincorporated/) | N/A | Atlanta- Hybrid |
 | 03/12/2025 | [Flutter Software Engineer](https://algojobs.io/jobs/3454175) | [On](https://algojobs.io/company/onrunning/) | N/A | Berlin |
 | 03/12/2025 | [Principal Software Engineer](https://algojobs.io/jobs/3455294) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | DK - Copenhagen, Denmark |
 | 03/12/2025 | [Principal Software Engineer](https://algojobs.io/jobs/3456403) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | DK - Copenhagen, Denmark |
 | 03/12/2025 | [Staff AI-Driven Software Engineer – Flutter](https://algojobs.io/jobs/3450703) | [CloudWalk](https://algojobs.io/company/cloudwalk/) | N/A | São Paulo (Remote) |
 | 03/12/2025 | [AI-Driven Software Engineer – Flutter (PCD-PWD)](https://algojobs.io/jobs/3450705) | [CloudWalk](https://algojobs.io/company/cloudwalk/) | N/A | São Paulo (Remote) |
-| 03/11/2025 | [Mobile Application Developer Intern](https://algojobs.io/jobs/3443724) | [Johnson Controls](https://algojobs.io/company/jci/) | $21 - $24 | York-Pennsylvania-United States of America |
 | 03/10/2025 | [Mobile App Developer](https://algojobs.io/jobs/3422526) | [Nutrafol](https://algojobs.io/company/nutrafol/) | $145K - $160K | Remote (United States) |
 | 03/10/2025 | [Pessoa Coordenadora Engenheira de Software (IT Lead) – Ativos Digitais (Afirmativa para mulheres)](https://algojobs.io/jobs/3420367) | [Banco BV](https://algojobs.io/company/bv/) | N/A | São Paulo (Hybrid) |
 | 03/10/2025 | [Junior Frontend Developer](https://algojobs.io/jobs/3420006) | [Monterail](https://algojobs.io/company/monterail/) | N/A | Wrocław, Lower Silesian Voivodeship, Poland (Hybrid) |
@@ -105,7 +107,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/04/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3049152) | [Tonal](https://algojobs.io/company/tonal/) | N/A | Toronto, ON, Canada |
 | 02/03/2025 | [Software Engineer Intern - Mobile](https://algojobs.io/jobs/3030800) | [ShopBack](https://algojobs.io/company/shopback-2/) | N/A | Ho Chi Minh, Vietnam (Hybrid) |
 | 02/03/2025 | [Sr. SDK Developer](https://algojobs.io/jobs/3035475) | [Foresight Sports](https://algojobs.io/company/vistaoutdoor/) | $107K - $168K | San Diego, CA - Foresight Sports, United States of America |
-| 01/31/2025 | [Software Development Engineer II, C++, Automotive Integration](https://algojobs.io/jobs/3018461) | [Mapbox](https://algojobs.io/company/mapbox/) | N/A | Mapbox Japan |
-| 01/30/2025 | [iOS Developer](https://algojobs.io/jobs/3002714) | [Konrad ](https://algojobs.io/company/konradgroup/) | N/A | San José, Costa Rica |
-| 01/30/2025 | [Android Developer](https://algojobs.io/jobs/3002713) | [Konrad ](https://algojobs.io/company/konradgroup/) | N/A | San José, Costa Rica |
-| 01/28/2025 | [Senior Software Engineer (L3)](https://algojobs.io/jobs/2975540) | [Clipboard Health](https://algojobs.io/company/clipboardhealth/) | N/A | Remote |
