@@ -1,14 +1,21 @@
 # Flutter Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/09/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Flutter Jobs](https://algojobs.io/jobs/flutter)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/11/2025 | [Senior Software Engineer ( .NET Fullstack )](https://algojobs.io/jobs/3771761) | [Zenoti](https://algojobs.io/company/zenoti/) | N/A | Hyderabad, Telangana, India |
+| 04/10/2025 | [Software Engineer](https://algojobs.io/jobs/3754755) | [PMCL-JAZZ](https://algojobs.io/company/pakistan-mobile-communication-limited-pmcl/) | N/A | Islamabad, Islamabad Capital Territory, Pakistan |
+| 04/10/2025 | [Senior Software Engineer (Mobile)](https://algojobs.io/jobs/3759988) | [India: Mastercard Technology Private Limited](https://algojobs.io/company/mastercard/) | $132K - $212K | Atlanta, Georgia (675 Ponce De Leon Ave NE), United States of America |
+| 04/10/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3747481) | [PAA Philippines AirAsia Inc.](https://algojobs.io/company/airasia/) | N/A | Jakarta, Indonesia |
+| 04/09/2025 | [Senior Software Engineer, Flutter](https://algojobs.io/jobs/3743560) | [SoFi](https://algojobs.io/company/sofi/) | N/A | CA - San Francisco HQ |
+| 04/09/2025 | [Backend Software Engineer](https://algojobs.io/jobs/3743216) | [Capital on Tap](https://algojobs.io/company/capitalontap/) | N/A | Poland |
+| 04/09/2025 | [Staff Software Engineer - Flutter](https://algojobs.io/jobs/3743393) | [iFood](https://algojobs.io/company/ifoodcarreiras/) | N/A | Brasil |
+| 04/09/2025 | [Mobile App Developer](https://algojobs.io/jobs/3750698) | [Natural Grocers](https://algojobs.io/company/naturalgrocers/) | $95K - $125K | Lakewood, CO, US (Hybrid) |
 | 04/08/2025 | [Mobile Software Engineer](https://algojobs.io/jobs/3719367) | [Level Access](https://algojobs.io/company/levelaccess/) | N/A | Remote - Mexico |
 | 04/08/2025 | [Lead Software Engineer (Flutter)](https://algojobs.io/jobs/3736243) | [HERE Technologies](https://algojobs.io/company/here/) | N/A | Mumbai, IN |
-| 04/05/2025 | [Flutter Developer Junior](https://algojobs.io/jobs/3700648) | [Multiplica Talent](https://algojobs.io/company/multiplicatalent/) | N/A | Mexico City, Mexico City, Mexico (Remote) |
 | 04/04/2025 | [Software Engineer II (Mobile), Member Experience](https://algojobs.io/jobs/3702505) | [Spring Health](https://algojobs.io/company/springhealth66/) | $120K - $150K | New York, New York, United States |
 | 04/04/2025 | [Software Engineer ( .NET Fullstack )](https://algojobs.io/jobs/3702190) | [Zenoti](https://algojobs.io/company/zenoti/) | N/A | Hyderabad, Telangana, India |
 | 04/03/2025 | [Staff Software Engineer](https://algojobs.io/jobs/3685384) | [FanDuel](https://algojobs.io/company/fanduel/) | $150K - $196K | Atlanta |
@@ -27,14 +34,13 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/28/2025 | [Mobile Flutter Developer](https://algojobs.io/jobs/3617862) | [Questronix Corporation](https://algojobs.io/company/questronix-corporation-2/) | N/A | Pasig, Metro Manila, Philippines (Hybrid) |
 | 03/25/2025 | [Principal Software Development Engineer - Native Mobile App](https://algojobs.io/jobs/3583497) | [ID.me](https://algojobs.io/company/idme/) | $248K - $295K | Mountain View, California, United States |
 | 03/25/2025 | [Software Engineer, Android](https://algojobs.io/jobs/3573902) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Bangalore, Karnataka, India |
-| 03/25/2025 | [Software Engineering Lead (Flutter) - Catalyst](https://algojobs.io/jobs/3592304) | [IO Global](https://algojobs.io/company/io-global/) | N/A | United Kingdom (Remote) |
 | 03/24/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3567579) | [FanDuel](https://algojobs.io/company/fanduel/) | $138K - $173K | Atlanta |
 | 03/21/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3555049) | [Slingshot AI](https://algojobs.io/company/slingshotai/) | N/A | London |
 | 03/21/2025 | [Senior Developer](https://algojobs.io/jobs/3556516) | [GE Appliances](https://algojobs.io/company/haier/) | N/A | IND, Bangalore, KA, India |
 | 03/19/2025 | [Senior Software Engineer, Full Stack](https://algojobs.io/jobs/3528048) | [Squint Inc](https://algojobs.io/company/squint.ai/) | $150K - $200K | SF Bay Area |
 | 03/19/2025 | [Senior Software Engineer (.NET, Cloud & Microservices)](https://algojobs.io/jobs/3514799) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | IN - Bangalore / IN - Pune |
-| 03/17/2025 | [Software Engineer II (Full-stack)](https://algojobs.io/jobs/3494497) | [EQ Bank \| Equitable Bank](https://algojobs.io/company/eqbank/) | N/A | Toronto (Hybrid) |
 | 03/17/2025 | [Software Development Engineer II, C++, Automotive Integration](https://algojobs.io/jobs/3498264) | [Mapbox](https://algojobs.io/company/mapbox/) | N/A | Mapbox Germany |
+| 03/14/2025 | [Software Engineer (Frontend) - Merchant Services](https://algojobs.io/jobs/3777640) | [GoTo Group](https://algojobs.io/company/gotogroup/) | N/A | Jakarta |
 | 03/13/2025 | [Software Engineer](https://algojobs.io/jobs/3449283) | [Transvirtual](https://algojobs.io/company/transvirtual/) | N/A | Sri Lanka (Remote) |
 | 03/13/2025 | [Software Engineer](https://algojobs.io/jobs/3449285) | [Transvirtual](https://algojobs.io/company/transvirtual/) | N/A | Manila, Metro Manila, Philippines (Remote) |
 | 03/13/2025 | [Software Engineer](https://algojobs.io/jobs/3449287) | [Transvirtual](https://algojobs.io/company/transvirtual/) | N/A | India (Remote) |
@@ -45,14 +51,12 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/12/2025 | [Staff AI-Driven Software Engineer – Flutter](https://algojobs.io/jobs/3450703) | [CloudWalk](https://algojobs.io/company/cloudwalk/) | N/A | São Paulo (Remote) |
 | 03/12/2025 | [AI-Driven Software Engineer – Flutter (PCD-PWD)](https://algojobs.io/jobs/3450705) | [CloudWalk](https://algojobs.io/company/cloudwalk/) | N/A | São Paulo (Remote) |
 | 03/10/2025 | [Mobile App Developer](https://algojobs.io/jobs/3422526) | [Nutrafol](https://algojobs.io/company/nutrafol/) | $145K - $160K | Remote (United States) |
-| 03/10/2025 | [Pessoa Coordenadora Engenheira de Software (IT Lead) – Ativos Digitais (Afirmativa para mulheres)](https://algojobs.io/jobs/3420367) | [Banco BV](https://algojobs.io/company/bv/) | N/A | São Paulo (Hybrid) |
 | 03/08/2025 | [Mobile Developer](https://algojobs.io/jobs/3404645) | [Dev Technology](https://algojobs.io/company/devtechnology/) | N/A | Ashburn, VA |
 | 03/08/2025 | [Mobile Developer, Senior](https://algojobs.io/jobs/3404643) | [Dev Technology](https://algojobs.io/company/devtechnology/) | N/A | Ashburn, VA |
 | 03/06/2025 | [Mobile Software Engineer (Health)](https://algojobs.io/jobs/3384944) | [Ollie](https://algojobs.io/company/myollie/) | N/A | Remote / New York, NY |
 | 03/06/2025 | [Front End Software Engineer](https://algojobs.io/jobs/3384945) | [Ollie](https://algojobs.io/company/myollie/) | N/A | Remote / New York, NY |
 | 03/06/2025 | [Senior Mobile Flutter Software Engineer](https://algojobs.io/jobs/3385341) | [IDT](https://algojobs.io/company/idt/) | N/A | Chișinău |
 | 03/05/2025 | [Technical Support SDK Developer](https://algojobs.io/jobs/3401827) | [Unico](https://algojobs.io/company/unico/) | N/A | São Paulo, SP (Hybrid) |
-| 03/04/2025 | [Staff Software Engineer, Flutter](https://algojobs.io/jobs/3373372) | [SoFi](https://algojobs.io/company/sofi/) | N/A | CA - Remote; WA - Remote; NY - Remote; US - Remote / US |
 | 03/04/2025 | [Staff Software Engineer, Developer Experience](https://algojobs.io/jobs/3360233) | [Spring Health](https://algojobs.io/company/springhealth66/) | $200K - $245K | Remote |
 | 03/04/2025 | [Software Engineering Vice President](https://algojobs.io/jobs/3359606) | [FanDuel](https://algojobs.io/company/fanduel/) | $239K - $329K | New York City |
 | 03/04/2025 | [Senior Software Engineer-Full Stack Developer](https://algojobs.io/jobs/3345645) | [Samsara](https://algojobs.io/company/samsara/) | $93K - $121K | Canada - Remote |
@@ -83,16 +87,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/17/2025 | [Software Development Engineer II, 3DLN, Rendering](https://algojobs.io/jobs/3178993) | [Mapbox](https://algojobs.io/company/mapbox/) | N/A | Mapbox Helsinki |
 | 02/16/2025 | [Experienced Associate - Mobile Application Developer](https://algojobs.io/jobs/3174844) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Kuala Lumpur, Malaysia |
 | 02/15/2025 | [Staff Software Engineer (Mobile)](https://algojobs.io/jobs/3162772) | [Kueski](https://algojobs.io/company/kueski/) | N/A | Mexico (Remote) |
-| 02/13/2025 | [Mobile App Developer](https://algojobs.io/jobs/3158367) | [Natural Grocers](https://algojobs.io/company/naturalgrocers/) | $95K - $125K | Lakewood, CO, US (Hybrid) |
-| 02/13/2025 | [Software Engineer - iOS (Swift + Kotlin)](https://algojobs.io/jobs/3156156) | [Motorola Solutions](https://algojobs.io/company/motorolasolutions/) | N/A | Penang, Malaysia |
-| 02/12/2025 | [Senior Software Engineer (Full- Stack)](https://algojobs.io/jobs/3136457) | [AG1](https://algojobs.io/company/ag1/) | $165K - $180K | US (Remote) |
-| 02/12/2025 | [Sr. Software Engineer, Mobile](https://algojobs.io/jobs/3135028) | [Carbon Robotics](https://algojobs.io/company/carbonrobotics/) | $165K - $195K | Seattle, WA |
-| 02/12/2025 | [Software Engineer (iOS)](https://algojobs.io/jobs/3137152) | [Okta](https://algojobs.io/company/okta/) | $102K - $154K | Toronto |
-| 02/12/2025 | [Senior Software Engineer (iOS)](https://algojobs.io/jobs/3135225) | [Bloomreach](https://algojobs.io/company/bloomreach/) | N/A | Slovakia, Czechia |
-| 02/12/2025 | [Senior Software Engineer Mobile (Android)](https://algojobs.io/jobs/3135223) | [Bloomreach](https://algojobs.io/company/bloomreach/) | N/A | Slovakia, Czechia |
-| 02/11/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/3121896) | [Cordros Capital Limited](https://algojobs.io/company/cordros/) | N/A | Lagos, Nigeria. |
-| 02/11/2025 | [Fullstack Engineer, Scribe](https://algojobs.io/jobs/3108681) | [Commure + Athelas](https://algojobs.io/company/commure-athelas/) | N/A | Mountain View, CA |
-| 02/10/2025 | [Software Engineer, Mobile](https://algojobs.io/jobs/3105667) | [ZipRecruiter](https://algojobs.io/company/ziprecruiter/) | $140K - $200K | Santa Monica, CA |
-| 02/10/2025 | [Software Engineer (On-Site)](https://algojobs.io/jobs/3104493) | [Age of Learning ](https://algojobs.io/company/aofl/) | N/A | Guadalajara Jalisco |
-| 02/10/2025 | [Principal Software Engineer](https://algojobs.io/jobs/3109812) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | DK - Copenhagen, Denmark |
-| 02/10/2025 | [Lead Software Engineer](https://algojobs.io/jobs/3110544) | [Kimberly-Clark](https://algojobs.io/company/kimberlyclark/) | N/A | IT Centre Bengaluru GDTC, India |
